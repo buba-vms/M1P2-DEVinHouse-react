@@ -1,0 +1,358 @@
+{
+  "farmacias": [
+    {
+      "informacoes": {
+        "razaoSocial": "",
+        "CNPJ": "",
+        "nomeFantasia": "",
+        "email": "",
+        "telefone": "",
+        "celular": ""
+      },
+      "endereco": {
+        "cep": "",
+        "logradouro": "",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "",
+        "uf": "",
+        "numero": "",
+        "ibge": "",
+        "gia": "",
+        "ddd": "",
+        "siafi": ""
+      },
+      "geoLoc": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "id": "abc"
+    },
+    {
+      "informacoes": {
+        "razaoSocial": "Byte Comércio Farmacêutico  LTDA",
+        "CNPJ": "12345678910110",
+        "nomeFantasia": "FarmaByte",
+        "email": "comercial@farmabyte.com",
+        "telefone": "4833334141",
+        "celular": "48999994141"
+      },
+      "endereco": {
+        "cep": "89201-010",
+        "logradouro": "Rua Abdon Batista",
+        "complemento": "3º Andar - 301",
+        "bairro": "Centro",
+        "localidade": "Joinville",
+        "uf": "SC",
+        "ibge": "4209102",
+        "gia": "",
+        "ddd": "47",
+        "siafi": "8179",
+        "numero": "254141"
+      },
+      "geoLoc": [
+        -26.3057,
+        -48.8432392
+      ],
+      "id": "Dakzirn"
+    },
+    {
+      "informacoes": {
+        "razaoSocial": "Tera Comércio Farmacêutico  LTDA",
+        "CNPJ": "12345678910220",
+        "nomeFantasia": "TeraFarma",
+        "email": "comercial@terafarma.com",
+        "telefone": "4833335353",
+        "celular": "48999995353"
+      },
+      "endereco": {
+        "cep": "88015-070",
+        "logradouro": "Rua Almirante Dorval Melchíades de Souza",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "Florianópolis",
+        "uf": "SC",
+        "ibge": "4205407",
+        "gia": "",
+        "ddd": "48",
+        "siafi": "8105",
+        "numero": "235353"
+      },
+      "geoLoc": [
+        -27.5937866,
+        -48.5473323
+      ],
+      "id": "qNtAvhA"
+    },
+    {
+      "informacoes": {
+        "razaoSocial": "Mega Comércio Farmacêutico  LTDA",
+        "CNPJ": "12345678910220",
+        "nomeFantasia": "MegaFarma",
+        "email": "comercial@megafarma.com",
+        "telefone": "4833336464",
+        "celular": "48999996464"
+      },
+      "endereco": {
+        "cep": "90030-140",
+        "logradouro": "Avenida Alberto Bins",
+        "complemento": "até 714 - lado par",
+        "bairro": "Centro Histórico",
+        "localidade": "Porto Alegre",
+        "uf": "RS",
+        "ibge": "4314902",
+        "gia": "",
+        "ddd": "51",
+        "siafi": "8801",
+        "numero": "35555"
+      },
+      "geoLoc": [
+        -30.0279925,
+        -51.2204868
+      ],
+      "id": "9ll8RUE"
+    },
+    {
+      "informacoes": {
+        "razaoSocial": "Giga Comércio Farmacêutico  LTDA",
+        "CNPJ": "12345678910220",
+        "nomeFantasia": "GigaFarma",
+        "email": "comercial@gigafarma.com",
+        "telefone": "4133336468",
+        "celular": "48999996468"
+      },
+      "endereco": {
+        "cep": "80020-240",
+        "logradouro": "Rua Alfredo Bufren",
+        "complemento": "2º andar",
+        "bairro": "Centro",
+        "localidade": "Curitiba",
+        "uf": "PR",
+        "ibge": "4106902",
+        "gia": "",
+        "ddd": "41",
+        "siafi": "7535",
+        "numero": "41500"
+      },
+      "geoLoc": [
+        -25.4284316,
+        -49.2675056
+      ],
+      "id": "PTY2DFQ"
+    },
+    {
+      "informacoes": {
+        "razaoSocial": "Farmácia Legal Comércio LTDA",
+        "CNPJ": "12345678910110",
+        "nomeFantasia": "Farmácia Legal",
+        "email": "comercio@farmacialegal.com",
+        "telefone": "48999992222",
+        "celular": "48099991232"
+      },
+      "endereco": {
+        "cep": "89201-400",
+        "logradouro": "Rua Nove de Março",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "Joinville",
+        "uf": "SC",
+        "ibge": "4209102",
+        "gia": "",
+        "ddd": "47",
+        "siafi": "8179",
+        "numero": "15555"
+      },
+      "geoLoc": [
+        -26.3015499,
+        -48.8464316
+      ],
+      "id": "tCJGLLE"
+    }
+  ],
+  "medicamentos": [
+    {
+      "medicamento": "",
+      "laboratorio": "",
+      "dosagem": "",
+      "tipo": "",
+      "precoUnit": 0,
+      "descricao": "",
+      "id": "abc"
+    },
+    {
+      "medicamento": "Aspirina",
+      "laboratorio": "Bayer",
+      "dosagem": "500mg",
+      "tipo": "medicamento-comum",
+      "precoUnit": "14.99",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam pellentesque nec nam aliquam sem et tortor consequat. Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Volutpat lacus laoreet non curabitur. Vitae turpis massa sed elementum tempus egestas sed sed. Amet aliquam id diam maecenas ultricies mi eget. Consequat mauris nunc congue nisi vitae suscipit tellus. Pellentesque sit amet porttitor eget dolor morbi non arcu. Dignissim convallis aenean et tortor. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+      "id": "3rmVWvN"
+    },
+    {
+      "medicamento": "Analgésico",
+      "laboratorio": "Bayer",
+      "dosagem": "500mg",
+      "tipo": "medicamento-comum",
+      "precoUnit": "22.99",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam pellentesque nec nam aliquam sem et tortor consequat. Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Volutpat lacus laoreet non curabitur. Vitae turpis massa sed elementum tempus egestas sed sed. Amet aliquam id diam maecenas ultricies mi eget. Consequat mauris nunc congue nisi vitae suscipit tellus. Pellentesque sit amet porttitor eget dolor morbi non arcu. Dignissim convallis aenean et tortor. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+      "id": "K3tWuZp"
+    },
+    {
+      "medicamento": "Anti-Depressivo",
+      "laboratorio": "Sanofi",
+      "dosagem": "1200mg",
+      "tipo": "medicamento-controlado",
+      "precoUnit": "179.95",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam pellentesque nec nam aliquam sem et tortor consequat. Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Volutpat lacus laoreet non curabitur. Vitae turpis massa sed elementum tempus egestas sed sed. Amet aliquam id diam maecenas ultricies mi eget. Consequat mauris nunc congue nisi vitae suscipit tellus. Pellentesque sit amet porttitor eget dolor morbi non arcu. Dignissim convallis aenean et tortor. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+      "id": "Jtv7qde"
+    },
+    {
+      "medicamento": "AAS Infantil",
+      "laboratorio": "Sanofi",
+      "dosagem": "200mg",
+      "tipo": "medicamento-comum",
+      "precoUnit": "29.95",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam pellentesque nec nam aliquam sem et tortor consequat. Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Volutpat lacus laoreet non curabitur. Vitae turpis massa sed elementum tempus egestas sed sed. Amet aliquam id diam maecenas ultricies mi eget. Consequat mauris nunc congue nisi vitae suscipit tellus. Pellentesque sit amet porttitor eget dolor morbi non arcu. Dignissim convallis aenean et tortor. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+      "id": "lN_HuqB"
+    },
+    {
+      "medicamento": "Aspirina",
+      "laboratorio": "Bayer",
+      "dosagem": "500mg",
+      "tipo": "medicamento-comum",
+      "precoUnit": "14.99",
+      "descricao": "",
+      "id": "cXP4btC"
+    }
+  ],
+  "pedidos": [
+    {
+      "farmacia": "",
+      "medicamento": "",
+      "precoUnit": "",
+      " quantidade": "",
+      "precoTotal": "",
+      "id": "abc"
+    },
+    {
+      "farmacia": "Byte Comércio Farmacêutico  LTDA",
+      "medicamento": "Aspirina",
+      "precoUnit": "14.99",
+      "quantidade": "10000",
+      "precoTotal": 149900,
+      "id": "UJEpC7H"
+    },
+    {
+      "farmacia": "Byte Comércio Farmacêutico  LTDA",
+      "medicamento": "Analgésico",
+      "precoUnit": "22.99",
+      "quantidade": "10000",
+      "precoTotal": 229899.99999999997,
+      "id": "DkI2QOn"
+    },
+    {
+      "farmacia": "Byte Comércio Farmacêutico  LTDA",
+      "medicamento": "Anti-Depressivo",
+      "precoUnit": "179.95",
+      "quantidade": "1000",
+      "precoTotal": 179950,
+      "id": "qCwwa0m"
+    },
+    {
+      "farmacia": "Byte Comércio Farmacêutico  LTDA",
+      "medicamento": "Aspirina",
+      "precoUnit": "14.99",
+      "quantidade": "22222",
+      "precoTotal": 333107.78,
+      "id": "ZwgwehE"
+    },
+    {
+      "farmacia": "Byte Comércio Farmacêutico  LTDA",
+      "medicamento": "Anti-Depressivo",
+      "precoUnit": "179.95",
+      "quantidade": "22222",
+      "precoTotal": 3998848.9,
+      "id": "s6ep00Z"
+    },
+    {
+      "farmacia": "Giga Comércio Farmacêutico  LTDA",
+      "medicamento": "Anti-Depressivo",
+      "precoUnit": "179.95",
+      "quantidade": "22222",
+      "precoTotal": 3998848.9,
+      "id": "Pp-rNfE"
+    },
+    {
+      "farmacia": "Mega Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "PZhgy7V"
+    },
+    {
+      "farmacia": "Byte Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "r9p5WsR"
+    },
+    {
+      "farmacia": "Mega Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "_dRFhhd"
+    },
+    {
+      "farmacia": "Mega Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "OzDrYss"
+    },
+    {
+      "farmacia": "Mega Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "7GASBB8"
+    },
+    {
+      "farmacia": "Mega Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "iBwP3uv"
+    },
+    {
+      "farmacia": "Mega Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "L4rWPaj"
+    },
+    {
+      "farmacia": "Mega Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "inKVRPM"
+    },
+    {
+      "farmacia": "Mega Comércio Farmacêutico  LTDA",
+      "medicamento": "AAS Infantil",
+      "precoUnit": "40.95",
+      "quantidade": "22222",
+      "precoTotal": 909990.9,
+      "id": "ReUVTJ-"
+    }
+  ]
+}
