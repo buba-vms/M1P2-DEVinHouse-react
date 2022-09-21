@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Google API 
+Link to get Google API key 
+[https://cloud.google.com/apis?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-p-dr-1011454-LUAC0015755&utm_content=text-ad-none-any-DEV_c-CRE_534667502763-ADGP_Hybrid%20%7C%20SKWS%20-%20PHR%20%7C%20Txt%20~%20API-Management_General-KWID_43700065166693636-kwd-152051905&utm_term=KW_api-ST_API&gclid=EAIaIQobChMI8fOWp9-l-gIVBMKRCh2nxQUYEAAYASAAEgLf2fD_BwE&gclsrc=aw.ds]
+
+add the Key to the useEffect in M1P2-DEVinHouse-react/src/context/PharmacyControlContext.js 
+
 ## Available Scripts
 
 In the project directory, you can run:
