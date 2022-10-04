@@ -11,7 +11,8 @@ const AppProvider = ({ children }) => {
     setPagina(pagina);
   };
 
-  const [isLogged, setIsLogged] = useState(true);
+  // lembre-se de iniciar o isLogged com false
+  const [isLogged, setIsLogged] = useState(false);
   const handleLogged = (status) => {
     setIsLogged(status);
   };
