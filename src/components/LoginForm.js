@@ -15,6 +15,8 @@ const LoginForm = () => {
     setLogin({ ...login, [name]: value });
   };
 
+  // lembre-se de validar os campos de email e senha, não basta apenas verificar se o campo está vazio ou seu tamanho
+  // é necessário informar ao usuário que o campo está inválido e não deixar que ele envie o formulário
   const handleSubmit = (e) => {
     e.preventDefault();
     if (login.email && login.password.length >= 8) {
@@ -88,6 +90,7 @@ const LoginForm = () => {
                         >
                           Log in
                         </button>
+                        {/* Lembre de não usar href com React, pois toda a aplicação é renderizada novamente */}
                         <a className="text-muted mx-2" href="#!">
                           Forgot password?
                         </a>

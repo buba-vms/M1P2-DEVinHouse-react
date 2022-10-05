@@ -131,6 +131,7 @@ const PharmacyControlProvider = ({ children }) => {
       isNaN(parseFloat(informacoes.telefone)) ||
       isNaN(parseFloat(informacoes.celular))
     ) {
+      // faltou informar ao usuário quais são os campos que estão errados
       alert('Digite apenas números nos campos solicitados');
       return;
     }
